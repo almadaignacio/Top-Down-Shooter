@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4831951737548964580}
   m_Layer: 0
   m_Name: Bullet
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,3 +112,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocity: 15
+  particle: {fileID: 4128344205768885426, guid: ccb8dd2e0197f864cb7b59d5f1f997c3, type: 3}

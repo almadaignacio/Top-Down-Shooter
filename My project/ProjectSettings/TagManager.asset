@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
+  - Door
+  - area
+  - key
+  - Wall
+  - win
+  - firs
+  - Grupo1
+  - grupo2
+  - g3
+  - g4
+  - g5
   layers:
   - Default
   - TransparentFX

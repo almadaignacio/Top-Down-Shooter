@@ -9,13 +9,24 @@ public class cameraPlayer : MonoBehaviour
 
     private Transform characterTransform;
     private Camera mainCamera;
+    private Rigidbody rb;
 
+    Animator anim;
+    private Vector3 movement;
+
+    private Vector3 Movement
+    {
+        get { return movement; }
+    }
 
     private void Awake()
     {
         characterTransform = GetComponent<Transform>();
         mainCamera = Camera.main;
+        anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody>();
     }
+
 
     private void Update()
     {
@@ -23,9 +34,27 @@ public class cameraPlayer : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
-        Vector3 movement = new Vector3(horizontal, 0f, vertical) * moveSpeed * Time.deltaTime;
+        movement = new Vector3(horizontal, 0f, vertical)* moveSpeed * Time.deltaTime;
         characterTransform.Translate(movement, Space.World);
 
+        rb.AddForce(movement *Time.deltaTime);
+
+        /*
+        if(movement.x > 0 && movement.y > 0)
+        {
+            anim.SetBool("run", true);
+        }
+        else
+        {
+            anim.SetBool("run", false);
+        }
+        */
+        
+        anim.SetFloat("movX",movement.x);
+        anim.SetFloat("movY", movement.z);
+        movement.Normalize();
+        
+        
         // Rotation
         Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
@@ -41,5 +70,11 @@ public class cameraPlayer : MonoBehaviour
                 characterTransform.rotation = Quaternion.RotateTowards(characterTransform.rotation, toRotation, rotationSpeed * Time.deltaTime);
             }
         }
+    }
+
+    private void FixedUpdate()
+    {
+        //rb.MovePosition(rb.position + moveSpeed * Time.deltaTime * movement);
+
     }
 }
