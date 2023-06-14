@@ -477,7 +477,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &21556522
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1025,7 +1025,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &79535947
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1163,7 +1163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &85540215
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1323,7 +1323,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &92596439
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1439,7 +1439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &99832043
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1817,7 +1817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &121748579
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2018,7 +2018,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &129984940
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2148,7 +2148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &148826240
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24535,7 +24535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &187132577
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -25254,7 +25254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &217916013
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -25331,7 +25331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &220251541
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -25478,7 +25478,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &229357778
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -25676,7 +25676,7 @@ MonoBehaviour:
   g5: {fileID: 0}
 --- !u!95 &229569901
 Animator:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -25693,7 +25693,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!136 &229569902
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -25783,7 +25783,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &270348024
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26019,7 +26019,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &291188624
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26317,7 +26317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &302907458
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -26455,7 +26455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &307648356
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -26593,7 +26593,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &309292492
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -26753,7 +26753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &312567285
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26830,7 +26830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &314367744
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26973,7 +26973,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &329600891
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27050,7 +27050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &331828826
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27466,7 +27466,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &367068575
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27582,7 +27582,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &367270129
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -27747,7 +27747,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &380514390
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28100,7 +28100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &417125998
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -30282,7 +30282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &454815568
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -30398,7 +30398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &455407463
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -30638,7 +30638,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &465837320
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31109,7 +31109,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &500619882
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31326,7 +31326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &504661521
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -31811,7 +31811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &530588734
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -32347,7 +32347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &543543686
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -32446,7 +32446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &552158411
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32721,7 +32721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &561459889
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -32820,7 +32820,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &565102181
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32936,7 +32936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &572899417
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -33006,7 +33006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c52cfc5e64c5646b871afa49ea95e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4
+  moveSpeed: 10
   rotationSpeed: 1000
 --- !u!4 &575446281 stripped
 Transform:
@@ -33042,7 +33042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
-  HpPlayer: 1000
+  HpPlayer: 100
   keyAdvertention: {fileID: 1829905471}
   area: {fileID: 1139556542}
   door: {fileID: 822345760}
@@ -33530,7 +33530,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &596229949
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -33607,7 +33607,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &606730563
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -33815,7 +33815,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &615391830
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -34147,7 +34147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &631505898
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -34571,7 +34571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &641671977
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -34709,7 +34709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &656104648
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -34869,7 +34869,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &673300261
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -34985,7 +34985,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &691914361
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -39077,7 +39077,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &751733431
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -39215,7 +39215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &762617945
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -39353,7 +39353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &766391883
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -39651,7 +39651,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &787842078
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39767,7 +39767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &789581508
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -40095,7 +40095,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &815213232
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -41111,7 +41111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &849951844
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -41346,7 +41346,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &851786900
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -41484,7 +41484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &864565918
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -42291,7 +42291,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &886788808
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -42429,7 +42429,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &891865080
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -42738,7 +42738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &955062526
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -42837,7 +42837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &959617593
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -43027,7 +43027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &970916382
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -43165,7 +43165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &978480467
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -43308,7 +43308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &993747283
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -43634,7 +43634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1011496739
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -43772,7 +43772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1012373412
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -43932,7 +43932,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1039272729
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -44009,7 +44009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1045125843
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -44300,7 +44300,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1081477448
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -44399,7 +44399,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1083373883
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -44859,7 +44859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1114959953
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -45050,7 +45050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1134228787
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -45439,7 +45439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1149856548
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -45538,7 +45538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1162315694
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -45813,7 +45813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1171895636
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -45951,7 +45951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1173792749
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -46184,7 +46184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1196356387
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -46441,7 +46441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1212899902
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -46579,7 +46579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1224015773
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -46656,7 +46656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1237904928
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -46949,7 +46949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1254699911
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -47153,7 +47153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1268198133
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47328,7 +47328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1277687022
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47512,7 +47512,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1296439846
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -47611,7 +47611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1298441399
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47965,7 +47965,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1311902303
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -48103,7 +48103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1313062503
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -48241,7 +48241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1317111668
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -48613,7 +48613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1335723668
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -48690,7 +48690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1353730676
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -48817,7 +48817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1362159396
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -48905,7 +48905,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1368868443
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -49155,7 +49155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1372458646
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -49675,7 +49675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1380196448
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -49791,7 +49791,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1382928673
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -50788,7 +50788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1455990905
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -51579,7 +51579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1507608948
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -51894,7 +51894,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1531230469
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -52320,7 +52320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1573054249
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -52698,7 +52698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1590317925
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -52797,7 +52797,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1604549795
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -52874,7 +52874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1605781720
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -53051,7 +53051,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1619667275
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -57269,7 +57269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1642691828
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -57525,7 +57525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1649064682
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -57785,7 +57785,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1655581267
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -57997,7 +57997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1661508381
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -58096,7 +58096,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1671172702
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -58173,7 +58173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1672057535
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -59779,7 +59779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1768373268
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -59939,7 +59939,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1800725568
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -60650,7 +60650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1851301551
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -60788,7 +60788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1854807456
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -61138,7 +61138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1878976478
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -61215,7 +61215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1880973580
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -61292,7 +61292,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1892909779
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -61430,7 +61430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1903515404
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -61546,7 +61546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1905421673
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -61684,7 +61684,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1910858506
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -61940,7 +61940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1940752262
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -65889,7 +65889,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1965076723
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -66063,7 +66063,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &1974534781
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -66240,7 +66240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &1976912283
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -66444,7 +66444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2008516089
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -66683,7 +66683,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2010350215
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -66782,7 +66782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &2011474312
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -66859,7 +66859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &2036205200
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -66936,7 +66936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &2050426330
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -67198,7 +67198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2066787089
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -67297,7 +67297,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &2078560631
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -67435,7 +67435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!136 &2097135155
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -68209,7 +68209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2115479894
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -68392,7 +68392,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2122019981
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -68554,7 +68554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2135548997
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -68692,7 +68692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   agent: {fileID: 0}
   player: {fileID: 575446281}
-  HP: 5
+  HP: 1
 --- !u!195 &2138071034
 NavMeshAgent:
   m_ObjectHideFlags: 0
